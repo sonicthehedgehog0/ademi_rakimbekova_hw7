@@ -13,9 +13,5 @@ public class Main {
         }
     }
 
-    public static void applyAll(Hero hero) {
-        hero.applySuperAbility();
-    }
-
 }
 
